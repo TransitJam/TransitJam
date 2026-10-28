@@ -7,11 +7,11 @@ We leverage rigorous urban analysis and data to work collaboratively behind the 
 ### ⚡ Active Road Safety Tools
 Our interactive, crowd-sourced monitoring utilities are hosted live on secure production environments. 
 
-* **[ZAP! Illegal Parking Tool](https://transitjam.com)**  
-  *Mapping systemic pedestrian hazards and illegal obstruction across HK. Generates automated Transport Complaints Unit dispatches with zero tracking or analytics.*
+* **[ZAP! Illegal Parking Tool](https://zap.transitjam.com)**  
+  *Mapping systemic pedestrian hazards and illegal obstruction across Hong Kong. Generates automated Transport Complaints Unit dispatches with zero tracking or analytics.*
 
-* **[ZAP! 1823 Reporting Tool](https://amplifyapp.com)**  
-  *Beta utility for crowdsourcing public space hazards, illegal scaffolding, and obstruction reports straight to municipal remediation channels.*
+* **[ZAP! 1823 Reporting Tool (beta)](https://main.d1acak4unxeqyx.amplifyapp.com)**  
+  *Beta utility for crowdsourcing public space hazards, illegal scaffolding, and obstruction reports straight to municipal remediation channels. Works well but the categories may need refining to match actual conditions.*
 
 ---
 
